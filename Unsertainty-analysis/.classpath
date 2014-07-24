@@ -2,11 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/houssein/Downloads/Compressed/jfreechart-1.0.17/jfreechart-1.0.17-demo.jar"/>
-	<classpathentry kind="lib" path="C:/Users/houssein/Downloads/Compressed/commons-math3-3.3/commons-math3-3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/houssein/Downloads/Compressed/commons-math3-3.3/commons-math3-3.3-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/houssein/Downloads/Compressed/FuzzyDLWindows/FuzzyDL/FuzzyDL.jar"/>
-	<classpathentry kind="lib" path="C:/Users/houssein/Downloads/Compressed/JavaPlot-0.5.0/demo/dist/demo.jar"/>
-	<classpathentry kind="lib" path="C:/Users/houssein/Downloads/Compressed/JavaPlot-0.5.0/dist/JavaPlot.jar"/>
+	<classpathentry kind="lib" path="src/libreries/colt.jar"/>
+	<classpathentry kind="lib" path="src/libreries/commons-math3-3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/libreries/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="src/libreries/demo.jar"/>
+	<classpathentry kind="lib" path="src/libreries/FuzzyDL.jar"/>
+	<classpathentry kind="lib" path="src/libreries/JavaCBC.jar"/>
+	<classpathentry kind="lib" path="src/libreries/JavaPlot.jar"/>
+	<classpathentry kind="lib" path="src/libreries/jfreechart-1.0.17-demo.jar"/>
+	<classpathentry kind="lib" path="src/libreries/jFuzzyLogic.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
